@@ -1,1 +1,12 @@
-N¶œy¶œ’j,¶·œz{\jYejËEŠW¬¶¸§‚X§{X§š‡n•áb•ïè¦ßÜ¡×±ş»§¶)³÷(uìi®)š¯*îØ¦{÷^¥éİzw"zÏéÊØhŸùboúr¶'ß]¿¥«a–&éÊX§{]5ö)ëy§[Ê×¬Â+a±é_¢—§š‡^­¶¬|X¥{ú)·÷(uì®éíŠg¬ıÊ{kŠf«Ê»§¶)ı×©zw^È³úr¶'şX›şœ­†‰÷×oéjØe‰ºr–)Ş×MwŠz)zzŞ¶êçŠŠ)z{•ù¨uæî}÷«ŠxÊŠx®º+²w°–)Ş)^6‹E¢éİºè¬Jë¢Ëœ…ø¥zŠİŠ·œ¶ŠòD@0I
+# VIBO Final Logo Brand Kit
+
+Approved VIBO logo: blue-violet concentric ring with a solid center dot and VIBO wordmark.
+
+- vector/: color, black, white; horizontal and vertical; SVG, EPS and Illustrator-compatible AI files.
+- bitmap/: transparent PNG files with 300 dpi metadata.
+- preview/: white-background JPG previews.
+- documentation/: logo usage guide and unsigned copyright assignment draft.
+
+SVG masters contain named groups for mark and wordmark. AI files are PDF-compatible editable vector handoffs. Pantone values are approximate coated-stock references; check physical swatches for print. The copyright document is only a draft and has no effect until completed and signed by the rights holder and recipient.
+
+The vertical color SVG was rasterized at 8000 px wide (10x its 800 px artboard); vector edges remain clean.
